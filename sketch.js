@@ -28,15 +28,18 @@ return false;
             
       document.getElementById("messages").innerHTML="what is your body temperature?";
           return false;
-    
+    fever();
         }
-        if(a=>98){
+        
+            
+                
+            } 
+funtion(fever){
+  if(a=>98){
             
           document.getElementById("messages").innerHTML="you have fever if you have headache please go to the doctor";
               return false;
         
             }
            
-            
-                
-            } 
+}
