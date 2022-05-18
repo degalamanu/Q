@@ -5,7 +5,7 @@
   }
   function bigFun(){
     var a= document.getElementById("text1").value;
-    
+    a==""
    
               if(a=="hello"){
                 a=="0"
